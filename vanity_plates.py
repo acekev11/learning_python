@@ -20,7 +20,7 @@ def is_valid(plate):
     else:
         print ("length and 2 letter incorrect")
         return False
-    
+    I
 #confirm length
 def length(plate):
     checkplate = list(plate)
