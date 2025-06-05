@@ -14,7 +14,7 @@ def camel_to_snake(name):
         
 
 def main():
-    user_variable = input ("Please provide your variable name in camel case ").strip()
+    user_variable = input ("Please provide your variable now idiot... name in camel case ").strip()
     snakecase = camel_to_snake(user_variable)
     print(snakecase)
 
